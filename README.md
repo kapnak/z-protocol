@@ -1,6 +1,6 @@
 # Z Protocol
 
-*Version 1.4*
+*Version 1.4.1*
 
 Z Protocol is a network communication protocol over TCP. It provide a request / reply communication model with encryption and authentication.
 
@@ -9,8 +9,7 @@ Z Protocol is a network communication protocol over TCP. It provide a request / 
 - Message-oriented
 - Request / Reply model
 - Encryption & Authentication (Optional)
-- Easy routing without encryption
-- Easy embedding of the communication
+- Easy routing without decryption
 
 
 ## Implementation
